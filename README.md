@@ -1,2 +1,3 @@
 # GraphQLDemo
-Demo code used for DEV.BG webinar
+
+The project is created using the GraphQL template from https://github.com/Dotnet-Boxed/Templates
